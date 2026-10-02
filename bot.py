@@ -41,7 +41,7 @@ START_TEXT = (
     "• JSON array format\n"
     "• Key=Value pairs: NetflixId=...; SecureNetflixId=...; nfvdid=...\n\n"
     "Send cookies now:\n\n"
-    " Bot by @ritsurex 🦖"
+    " Bot by @didierJC 🌌🚀"
 )
 
 HELP_TEXT = (
